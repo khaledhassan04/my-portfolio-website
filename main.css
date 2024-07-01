@@ -57,18 +57,21 @@ margin-left: 200px;
     background-color: rgb(217, 207, 250);
     padding: 20px 30px ;
     border-radius: 10px;
-    border: 10px rebeccapurple;
+    border-left: 10px solid rebeccapurple;
 }
 .experience .web {
     background-color: rgb(217, 207, 250);
     padding: 20px 30px ;
     border-radius: 10px;
-    border: 10px rebeccapurple;
+    border-left: 10px solid rebeccapurple;
     margin-right: 100px;
 }
 
 footer p{
-    margin-top: 50px;
+    background-color: rgb(237, 225, 255);
+    margin-top: 70px;
+    margin-bottom: 0;
+    padding: 20px 0px;
     text-align: center;
     font-weight: 700;
 }
