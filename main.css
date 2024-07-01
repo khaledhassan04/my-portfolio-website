@@ -33,7 +33,7 @@ img{
 .top-banner{
     background-image: url(img/bg2.png);
     background-repeat: no-repeat;
-    background-position: 950px;
+    background-position: 80%;
     background-size: 400px;
 }
 .about h3{
