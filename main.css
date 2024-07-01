@@ -17,7 +17,7 @@ h1{
     font-size: 16px;
     font-weight: 600;
 }
-section{
+.flexible-content{
     display: flex;
     margin-top: 70px;
 }
@@ -45,4 +45,30 @@ img{
     background-repeat: no-repeat;
     background-size: 400px;
     background-position: 250px;
+}
+.experience{
+    margin-top: 100px;
+}
+
+.experience h1{
+margin-left: 200px;
+}
+.experience .ui  {
+    background-color: rgb(217, 207, 250);
+    padding: 20px 30px ;
+    border-radius: 10px;
+    border: 10px rebeccapurple;
+}
+.experience .web {
+    background-color: rgb(217, 207, 250);
+    padding: 20px 30px ;
+    border-radius: 10px;
+    border: 10px rebeccapurple;
+    margin-right: 100px;
+}
+
+footer p{
+    margin-top: 50px;
+    text-align: center;
+    font-weight: 700;
 }
